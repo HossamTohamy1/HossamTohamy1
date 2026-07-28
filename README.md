@@ -1,20 +1,446 @@
-<h1 align="center">Hi 👋, I'm Hossam Tohamy</h1>
-<h3 align="center">Back-End .NET Developer</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossamtohamy1" alt="hossamtohamy1" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,25:512BD4,55:7C3AED,80:00BFFF,100:00E5FF&height=240&section=header&text=HOSSAM%20TOHAMY&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=BACK-END%20.NET%20DEVELOPER&descAlignY=58&descSize=20&animation=twinkling" width="100%"/>
 
-- 💬 Ask me about **Back-End , Front End**
+<br>
 
-- ⚡ Fun fact **Football , Gym**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=C%23+%7C+.NET+%7C+ASP.NET+CORE;CLEAN+ARCHITECTURE+%7C+CQRS+%7C+MEDIATR;JWT+%7C+OTP+%7C+2FA+%7C+OAUTH;SIGNALR+%7C+REDIS+%7C+REAL-TIME;BUILDING+BACKENDS%2C+NOT+JUST+ENDPOINTS." alt="Typing SVG"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hossam-tohamy-a4763a350/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hossam-tohamy-a4763a350/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hossam.reda.984786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hossam.reda.984786" height="30" width="40" /></a>
-<a href="https://discord.gg/1257316206638010408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1257316206638010408" height="30" width="40" /></a>
-</p>
+<br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://github.com/HossamTohamy1">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://discord.gg/1257316206638010408">
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossamtohamy1&show_icons=true&locale=en&layout=compact" alt="hossamtohamy1" /></p>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,redis,docker,mssql,postgres,mongodb,git,github&theme=dark"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=HossamTohamy1&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 👨‍💻 ABOUT ME
+
+### I'm **Hossam Tohamy** — a Back-End .NET Developer & Computer Science Student.
+
+**I build secure APIs, scalable backend systems, and real-time applications.**
+
+<br>
+
+<img src="https://img.shields.io/badge/FOCUS-BACKEND-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ECOSYSTEM-.NET-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/MINDSET-ENGINEERING-00BFFF?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### ⚡ BACKEND
+
+`C#`
+`ASP.NET Core`
+`Web API`
+`EF Core`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️ ARCHITECTURE
+
+`Clean Architecture`
+`CQRS`
+`MediatR`
+`SOLID`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐 SECURITY
+
+`JWT`
+`Refresh Tokens`
+`OTP`
+`2FA`
+`OAuth`
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡ REAL-TIME
+
+`SignalR`
+`WebSockets`
+`Redis`
+`Notifications`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🧰 MY TOOLBOX
+
+### CORE
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark"/>
+
+<br>
+
+`C#` · `ASP.NET Core` · `Web API` · `Entity Framework Core` · `LINQ`
+
+<br><br>
+
+### DATA
+
+<img src="https://skillicons.dev/icons?i=mssql,postgres,mongodb,redis&theme=dark"/>
+
+<br>
+
+`SQL Server` · `PostgreSQL` · `MongoDB` · `Redis`
+
+<br><br>
+
+### FRONTEND & OTHER STACKS
+
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,laravel,php,nodejs,python,fastapi,flutter,dart&theme=dark"/>
+
+<br>
+
+`React` · `Angular` · `TypeScript` · `JavaScript` · `Laravel` · `Node.js` · `Python` · `FastAPI` · `Flutter`
+
+<br><br>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 CURRENTLY INTO .NET
+
+<img src="https://img.shields.io/badge/⚡_MAIN_FOCUS-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔥_LEVEL--UP-MODE-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_BUILDING-BACKEND-00BFFF?style=for-the-badge"/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="16%">
+
+### ⚙️
+
+**ASP.NET Core**
+
+`Web API`
+`Middleware`
+`DI`
+
+</td>
+
+<td align="center" width="16%">
+
+### 🏗️
+
+**Architecture**
+
+`Clean Architecture`
+`SOLID`
+`Design Patterns`
+
+</td>
+
+<td align="center" width="16%">
+
+### 🧩
+
+**CQRS**
+
+`MediatR`
+`Commands`
+`Queries`
+
+</td>
+
+<td align="center" width="16%">
+
+### 🔐
+
+**Security**
+
+`JWT`
+`OTP`
+`2FA`
+`OAuth`
+
+</td>
+
+<td align="center" width="16%">
+
+### ⚡
+
+**Real-Time**
+
+`SignalR`
+`WebSockets`
+`Redis`
+
+</td>
+
+<td align="center" width="16%">
+
+### 🌐
+
+**Distributed**
+
+`Caching`
+`Messaging`
+`Scalable APIs`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/ASP.NET%20CORE-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-7C3AED?style=flat-square"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/CQRS-5B21B6?style=flat-square"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/SECURITY-DC2626?style=flat-square"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/REAL--TIME-00BFFF?style=flat-square"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-0891B2?style=flat-square"/>
+
+<br><br>
+
+### `BUILDING → LEARNING → REFACTORING → SCALING`
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔥 WHAT I DO
+
+<br>
+
+<img src="https://img.shields.io/badge/API%20DEVELOPMENT-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSTEM%20ARCHITECTURE-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AUTHENTICATION-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REAL--TIME-00BFFF?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CQRS-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CLEAN%20CODE-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATABASES-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY-B91C1C?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔐 SECURITY & AUTHENTICATION
+
+<br>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REFRESH%20TOKENS-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TOKEN%20ROTATION-B91C1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OTP-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2FA-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAUTH-EB5424?style=for-the-badge"/>
+
+<br><br>
+
+`Authentication` · `Authorization` · `JWT` · `Refresh Tokens` · `Token Rotation` · `Token Revocation` · `OTP` · `2FA` · `OAuth`
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ REAL-TIME
+
+<br>
+
+<img src="https://img.shields.io/badge/SIGNALR-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEBSOCKETS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/REAL--TIME-00BFFF?style=for-the-badge"/>
+
+<br><br>
+
+`Messaging` · `Presence` · `Notifications` · `File Sharing` · `Real-Time Events`
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 A GLIMPSE OF MY WORK
+
+<br>
+
+### 🛒 E-Commerce   •   🏨 Hotel Systems   •   🔐 Authentication
+
+### 💬 Real-Time Chat   •   📍 Tracking   •   📱 Full-Stack Applications
+
+<br><br>
+
+**.NET is my main stack — but I'm comfortable crossing the stack when the project needs it.**
+
+<br>
+
+<a href="https://github.com/HossamTohamy1">
+<img src="https://img.shields.io/badge/→_EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 👨‍🏫 TEACHING
+
+<img src="https://img.shields.io/badge/eYouth%20Academy-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DECI-00D4FF?style=for-the-badge"/>
+
+<br><br>
+
+`Cybersecurity` · `Web Development` · `Data Science` · `EDA` · `AI` · `Databases`
+
+<br><br>
+
+### `LEARN → BUILD → SHARE`
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚽ OUTSIDE THE CODE
+
+<br>
+
+<img src="https://img.shields.io/badge/⚽_FOOTBALL-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏋️_GYM-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_CODE-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠_LEARN-7C3AED?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GITHUB ACTIVITY
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HossamTohamy1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamTohamy1&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=HossamTohamy1&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=HossamTohamy1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HossamTohamy1&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/HossamTohamy1/HossamTohamy1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=BUILD.%20BREAK.%20FIX.%20SHIP.%20REPEAT.&fontSize=27&fontColor=00E5FF&fontAlignY=50&animation=twinkling"/>
+
+### `BACK-END .NET DEVELOPER`
+
+**C# · .NET · ASP.NET Core · CQRS · Clean Architecture · Redis**
+
+<br>
+
+<a href="https://github.com/HossamTohamy1">
+<img src="https://img.shields.io/badge/⭐_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/">
+<img src="https://img.shields.io/badge/🤝_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,35:00BFFF,65:7C3AED,100:512BD4&height=150&section=footer&animation=twinkling" width="100%"/>
