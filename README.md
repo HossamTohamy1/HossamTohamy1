@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://github.com/hossamtohamy1"><img src="https://img.shields.io/badge/GitHub-hossamtohamy1-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/HossamTohamy1"><img src="https://img.shields.io/badge/GitHub-HossamTohamy1-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/"><img src="https://img.shields.io/badge/LinkedIn-Hossam%20Tohamy-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://discord.gg/1257316206638010408"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 
@@ -18,37 +18,55 @@
 
 ## About Me
 
-I'm a Back-End .NET Developer studying Computer Science at Thebes Higher Institute of Management (expected Oct 2027). I build backend systems using **ASP.NET Core, Clean Architecture, and CQRS**, with a particular focus on **authentication and authorization** — JWT, refresh token rotation, OTP, 2FA, and OAuth.
+I'm a Back-End .NET Developer studying Computer Science at Thebes Higher Institute of Management. I build backend systems using **ASP.NET Core, Clean Architecture, and CQRS**, with a particular focus on **authentication and authorization** — JWT, refresh token rotation, OTP, 2FA, and OAuth.
 
-Alongside development, I teach technology courses (web development, cybersecurity, data science, and CS fundamentals) for **eYouth** and **DECI** programs — which keeps me sharp at breaking down complex systems into concepts other people can actually use.
-
-I care less about "getting it working" and more about getting the architecture right: separation of concerns, testability, and code that the next developer (or future me) can actually understand.
+Alongside development, I teach technology courses (web development, cybersecurity, data science, and CS fundamentals) for **eYouth** and **DECI** programs.
 
 ---
 
 ## Featured Projects
 
-### 🔐 Authentication Microservice
-Clean Architecture auth service with JWT access/refresh tokens, refresh token rotation, email verification, password reset, and a generic OTP system built to support multiple purposes (forgot password, email confirmation, 2FA).
-`ASP.NET Core` `Clean Architecture` `CQRS + MediatR` `EF Core` `FluentValidation`
-**[→ View Repo](https://github.com/hossamtohamy1/REPO-NAME-HERE)**
-
-### 🛒 Ecommerc_Rose
-E-commerce backend built with CQRS/MediatR, Mapster, and FluentValidation. Includes cart, user management, offers, audit logging, and order-status notifications.
+### 🛒 [Ecommerc_Rose](https://github.com/HossamTohamy1/Ecommerc_Rose)
+E-commerce backend built with Clean Architecture and CQRS/MediatR, using Mapster and FluentValidation. Includes cart, user management, offers, audit logging, and order-status notifications.
 `ASP.NET Core` `Clean Architecture` `CQRS` `Mapster`
-**[→ View Repo](https://github.com/hossamtohamy1/REPO-NAME-HERE)**
 
-### 💬 ChatHub
-Real-time chat application with dual-scheme authentication (HttpOnly cookies for MVC, JWT for SignalR), voice messaging, and live presence tracking via a custom connection manager.
-`ASP.NET Core MVC` `SignalR` `JWT` `CQRS`
-**[→ View Repo](https://github.com/hossamtohamy1/REPO-NAME-HERE)**
+### 🏨 [Hotel_System](https://github.com/HossamTohamy1/Hotel_System)
+Hotel reservation backend with Clean Architecture, dynamic permission-based authorization, Stripe payment integration, and structured logging.
+`ASP.NET Core` `Clean Architecture` `CQRS` `Stripe` `Serilog`
 
-### 🏨 Hotel Reservation System
-Clean Architecture system with dynamic permission-based authorization, Stripe payment integration, and structured logging.
-`Clean Architecture` `CQRS` `Stripe` `Serilog` `AutoMapper`
-**[→ View Repo](https://github.com/hossamtohamy1/REPO-NAME-HERE)**
+### 📝 [ExaminationSystem](https://github.com/HossamTohamy1/ExaminationSystem)
+Examination management system built with a layered architecture approach.
+`ASP.NET Core` `Layered Architecture` `EF Core`
 
-> Replace the placeholder links above with your actual repo URLs.
+### 🧩 [ModularERP](https://github.com/HossamTohamy1/ModularERP) `Private`
+Modular ERP system backend.
+`C#` `.NET`
+
+### 📦 [Tracking](https://github.com/HossamTohamy1/Tracking) / [Tracking_React](https://github.com/HossamTohamy1/Tracking_React)
+Tracking system with a .NET backend and a React/TypeScript front end.
+`ASP.NET Core` `TypeScript` `React`
+
+### 🌍 [Ecommerc_.NET_Flutter](https://github.com/HossamTohamy1/Ecommerc_.NET_Flutter)
+E-commerce project with a .NET backend and a Flutter client.
+`ASP.NET Core` `Flutter` `Dart`
+
+---
+
+## Other Repositories
+
+| Repo | Stack |
+|---|---|
+| [Tourism_System](https://github.com/HossamTohamy1/Tourism_System) | JavaScript |
+| [Hotel_System_Laravel](https://github.com/HossamTohamy1/Hotel_System_Laravel) | PHP / Laravel |
+| [Ecommerc_laravel](https://github.com/HossamTohamy1/Ecommerc_laravel) | Laravel |
+| [Ecommerc_node.js](https://github.com/HossamTohamy1/Ecommerc_node.js) | Node.js |
+| [Ecommerce_Python-FastApi](https://github.com/HossamTohamy1/Ecommerce_Python-FastApi) | Python / FastAPI |
+| [Chat_Websocket](https://github.com/HossamTohamy1/Chat_Websocket) | PHP |
+| [Saraha](https://github.com/HossamTohamy1/Saraha) | Laravel/Blade |
+| [School](https://github.com/HossamTohamy1/School) | C# |
+| [Classes_Managment-.NET-](https://github.com/HossamTohamy1/Classes_Managment-.NET-) | C# |
+| [Hosptial](https://github.com/HossamTohamy1/Hosptial) | C# |
+| [Flutter](https://github.com/HossamTohamy1/Flutter) | Dart |
 
 ---
 
@@ -62,39 +80,21 @@ Clean Architecture system with dynamic permission-based authorization, Stripe pa
 
 **Data & Infra:** SQL Server · PostgreSQL · MongoDB · Redis · Docker · Git
 
----
-
-## Authentication System Design
-
-The auth flow I consistently build across projects:
-
-```
-Register → Email Verification → Login
-              ↓
-    Access Token + Refresh Token (rotation)
-              ↓
-       Role-Based Authorization
-              ↓
-         OTP / 2FA (as needed)
-```
+**Also worked with:** Angular · React · TypeScript · Laravel (PHP) · Node.js · Python/FastAPI · Flutter
 
 ---
 
 ## Teaching
 
-I teach technical courses covering cybersecurity fundamentals, web development, data science/AI concepts, and databases — for eYouth Academy and DECI. My approach: real-world analogy first, formal definition second, and hands-on material students can actually study from.
-
-I've also written articles on:
-- IEnumerable vs IQueryable in C#
-- DTO vs ViewModel — when and why they differ
+I teach technical courses covering cybersecurity fundamentals, web development, data science/AI concepts, and databases — for eYouth Academy and DECI. My approach: real-world analogy first, formal definition second, hands-on material students can actually study from.
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hossamtohamy1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamtohamy1&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HossamTohamy1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamTohamy1&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 </div>
 
 ---
