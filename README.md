@@ -50,6 +50,7 @@
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
 ### ⚡ BACKEND
@@ -94,6 +95,7 @@
 `Notifications`
 
 </td>
+
 </tr>
 </table>
 
@@ -143,6 +145,117 @@
 
 <div align="center">
 
+# 🧠 CURRENTLY INTO .NET
+
+<img src="https://img.shields.io/badge/⚡_MAIN_FOCUS-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔥_LEVEL--UP-MODE-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_BUILDING-BACKEND-00BFFF?style=for-the-badge"/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="16%">
+
+### ⚙️
+
+**ASP.NET Core**
+
+`Web API`
+`Middleware`
+`DI`
+
+</td>
+
+<td align="center" width="16%">
+
+### 🏗️
+
+**Architecture**
+
+`Clean Architecture`
+`SOLID`
+`Design Patterns`
+
+</td>
+
+<td align="center" width="16%">
+
+### 🧩
+
+**CQRS**
+
+`MediatR`
+`Commands`
+`Queries`
+
+</td>
+
+<td align="center" width="16%">
+
+### 🔐
+
+**Security**
+
+`JWT`
+`OTP`
+`2FA`
+`OAuth`
+
+</td>
+
+<td align="center" width="16%">
+
+### ⚡
+
+**Real-Time**
+
+`SignalR`
+`WebSockets`
+`Redis`
+
+</td>
+
+<td align="center" width="16%">
+
+### 🌐
+
+**Distributed**
+
+`Caching`
+`Messaging`
+`Scalable APIs`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/ASP.NET%20CORE-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-7C3AED?style=flat-square"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/CQRS-5B21B6?style=flat-square"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/SECURITY-DC2626?style=flat-square"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/REAL--TIME-00BFFF?style=flat-square"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-0891B2?style=flat-square"/>
+
+<br><br>
+
+### `BUILDING → LEARNING → REFACTORING → SCALING`
+
+</div>
+
+---
+
+<div align="center">
+
 # 🔥 WHAT I DO
 
 <br>
@@ -163,44 +276,64 @@
 
 ---
 
-# 🧠 CURRENTLY INTO
-
 <div align="center">
 
-```text
-.NET
-  ├── ASP.NET Core
-  ├── Clean Architecture
-  ├── CQRS / MediatR
-  ├── Authentication
-  ├── Real-Time Systems
-  └── Distributed Backend Concepts
-```
+# 🔐 SECURITY & AUTHENTICATION
 
 <br>
 
-<img src="https://img.shields.io/badge/LEARNING-ADVANCED%20.NET-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILDING-BACKEND%20SYSTEMS-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPLORING-DISTRIBUTED%20SYSTEMS-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REFRESH%20TOKENS-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TOKEN%20ROTATION-B91C1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OTP-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2FA-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAUTH-EB5424?style=for-the-badge"/>
+
+<br><br>
+
+`Authentication` · `Authorization` · `JWT` · `Refresh Tokens` · `Token Rotation` · `Token Revocation` · `OTP` · `2FA` · `OAuth`
 
 </div>
 
 ---
 
-# 🚀 A GLIMPSE OF MY WORK
+<div align="center">
+
+# ⚡ REAL-TIME
+
+<br>
+
+<img src="https://img.shields.io/badge/SIGNALR-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEBSOCKETS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/REAL--TIME-00BFFF?style=for-the-badge"/>
+
+<br><br>
+
+`Messaging` · `Presence` · `Notifications` · `File Sharing` · `Real-Time Events`
+
+</div>
+
+---
 
 <div align="center">
 
-### 🛒 E-Commerce · 🏨 Hotel Systems · 🔐 Authentication · 💬 Real-Time Chat · 📍 Tracking
+# 🚀 A GLIMPSE OF MY WORK
 
 <br>
+
+### 🛒 E-Commerce   •   🏨 Hotel Systems   •   🔐 Authentication
+
+### 💬 Real-Time Chat   •   📍 Tracking   •   📱 Full-Stack Applications
+
+<br><br>
 
 **.NET is my main stack — but I'm comfortable crossing the stack when the project needs it.**
 
 <br>
 
 <a href="https://github.com/HossamTohamy1">
-<img src="https://img.shields.io/badge/→%20EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/→_EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -220,7 +353,7 @@
 
 <br><br>
 
-**Learning → Building → Sharing**
+### `LEARN → BUILD → SHARE`
 
 </div>
 
@@ -229,6 +362,8 @@
 <div align="center">
 
 # ⚽ OUTSIDE THE CODE
+
+<br>
 
 <img src="https://img.shields.io/badge/⚽_FOOTBALL-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🏋️_GYM-111827?style=for-the-badge"/>
@@ -242,6 +377,8 @@
 <div align="center">
 
 # 📊 GITHUB ACTIVITY
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=HossamTohamy1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamTohamy1&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
@@ -303,5 +440,7 @@
 </a>
 
 </div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,35:00BFFF,65:7C3AED,100:512BD4&height=150&section=footer&animation=twinkling" width="100%"/>
