@@ -1,159 +1,435 @@
-<h1 align="center">Hi 👋, I'm Hossam Tohamy</h1>
+<div align="center">
 
-<h3 align="center">Back-End .NET Developer | ASP.NET Core | Web APIs | Clean Architecture</h3>
+# ⚡ HOSSAM TOHAMY
 
-<p align="center">
-  <a href="https://github.com/hossamtohamy1">
-    <img src="https://img.shields.io/github/followers/hossamtohamy1?label=Followers&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=hossamtohamy1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+### `BACK-END .NET DEVELOPER`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=512BD4&center=true&vCenter=true&width=800&lines=ASP.NET+Core+%7C+Web+API+%7C+C%23;Clean+Architecture+%7C+CQRS+%7C+SOLID;Authentication+%7C+JWT+%7C+2FA+%7C+OAuth;SignalR+%7C+Redis+%7C+Real-Time+Systems;Building+Scalable+%26+Secure+Backend+Systems" alt="Typing SVG" />
 
-## 👨‍💻 About Me
+<br>
 
-I'm a **Back-End .NET Developer** passionate about building scalable, secure, and maintainable backend systems.
+<a href="https://github.com/hossamtohamy1">
+<img src="https://img.shields.io/badge/GitHub-hossamtohamy1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-I mainly work with **C#, ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Redis, and Docker**, while applying software engineering principles such as **Clean Architecture, SOLID, CQRS, and Design Patterns**.
+<a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/">
+<img src="https://img.shields.io/badge/LinkedIn-Hossam%20Tohamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-I'm particularly interested in **Authentication & Authorization, Distributed Systems, Real-Time Communication, API Design, and Backend Architecture**.
+<a href="https://discord.gg/1257316206638010408">
+<img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-* 🔭 Currently working on **ASP.NET Core & Backend Architecture**
-* 🌱 Currently learning **Microservices, Messaging, Testing & DevOps**
-* 💬 Ask me about **C#, .NET, ASP.NET Core, Web APIs, Authentication & Backend Development**
-* ⚡ Fun fact: **Football ⚽ | Gym 🏋️ | Coding 💻**
+<br><br>
 
----
+<img src="https://komarev.com/ghpvc/?username=hossamtohamy1&label=PROFILE%20VIEWS&color=512BD4&style=for-the-badge"/>
 
-## 🛠️ Tech Stack
-
-### 💻 Backend Development
-
-<p align="left">
-<a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45" alt=".NET"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/></a>
-<a href="https://learn.microsoft.com/en-us/aspnet/core/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45" alt="ASP.NET Core"/></a>
-<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/></a>
-</p>
-
-**C# • .NET • ASP.NET Core • Web API • Entity Framework Core • LINQ • REST APIs • SignalR**
-
-### 🏗️ Architecture & Design
-
-<p>
-<img src="https://img.shields.io/badge/Clean%20Architecture-512BD4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CQRS-512BD4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Design%20Patterns-512BD4?style=for-the-badge" />
-</p>
-
-**Clean Architecture • CQRS • SOLID • Design Patterns • Dependency Injection • Clean Code**
-
-### 🔐 Authentication & Security
-
-<p>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/2FA-000000?style=for-the-badge" />
-</p>
-
-**JWT Authentication • Refresh Tokens • Role-Based Authorization • OAuth • OTP • 2FA • Email Verification**
-
-### 🗄️ Databases & Caching
-
-<p align="left">
-<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server"/></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/></a>
-<a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis"/></a>
-</p>
-
-**SQL Server • PostgreSQL • MongoDB • Redis • Entity Framework Core**
-
-### ⚙️ Tools & DevOps
-
-<p align="left">
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/></a>
-</p>
-
-**Git • GitHub • Docker • Postman • Swagger / OpenAPI**
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 WHO AM I?
 
-### 💬 ChatHub — Real-Time Chat Platform
+```csharp
+public class HossamTohamy
+{
+    public string Role => "Back-End .NET Developer";
 
-A real-time communication platform built with a modern backend architecture.
+    public string MainStack =>
+        "C# + ASP.NET Core + SQL Server";
 
-**Features:**
+    public string Architecture =>
+        "Clean Architecture + CQRS + SOLID";
 
-* 🔐 JWT Authentication & Authorization
+    public string Specialization =>
+        "Authentication + Real-Time Systems + Web APIs";
+
+    public string Mindset =>
+        "Build it. Break it. Understand it. Improve it.";
+
+    public string CurrentMission =>
+        "Turning complex problems into clean backend systems.";
+}
+```
+
+> **I don't just write APIs. I build systems.**
+
+I'm a **Back-End .NET Developer** focused on designing and building **secure, scalable, maintainable backend systems** using modern .NET technologies and software architecture principles.
+
+My main focus is **ASP.NET Core, Web APIs, Clean Architecture, CQRS, Authentication, Real-Time Communication, Databases, Caching, and Distributed Systems.**
+
+---
+
+# ⚔️ CORE ARSENAL
+
+<div align="center">
+
+### 🔥 BACKEND
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,redis,docker,postman&theme=dark" />
+
+<br><br>
+
+### 🗄️ DATABASES
+
+<img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb&theme=dark" />
+
+<br><br>
+
+### 🧰 ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+
+</div>
+
+---
+
+# 🏗️ ARCHITECTURE & ENGINEERING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CQRS-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dependency%20Injection-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Code-512BD4?style=for-the-badge"/>
+
+</div>
+
+```text
+                         ┌─────────────────────┐
+                         │      CLIENT         │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │    ASP.NET CORE     │
+                         │      WEB API        │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                    ┌──────────────────────────────┐
+                    │       CLEAN ARCHITECTURE      │
+                    │                              │
+                    │  API → Application → Domain │
+                    │             ↓                │
+                    │       Infrastructure         │
+                    └──────────────┬───────────────┘
+                                   │
+              ┌────────────────────┼───────────────────┐
+              ▼                    ▼                   ▼
+        ┌───────────┐        ┌───────────┐       ┌───────────┐
+        │ SQL Server│        │   Redis   │       │ External  │
+        │           │        │   Cache   │       │ Services  │
+        └───────────┘        └───────────┘       └───────────┘
+```
+
+---
+
+# 🔐 SECURITY IS NOT OPTIONAL
+
+I enjoy building authentication systems that go beyond a simple `Login()` endpoint.
+
+```text
+                    🔐 AUTHENTICATION SYSTEM
+                              │
+             ┌────────────────┼────────────────┐
+             ▼                ▼                ▼
+          Register           Login           OAuth
+             │                │                │
+             ▼                ▼                ▼
+       Email Verify       JWT Tokens      External Login
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+               Access Token        Refresh Token
+                    │                   │
+                    └─────────┬─────────┘
+                              ▼
+                         Authorization
+                              │
+                  ┌───────────┼───────────┐
+                  ▼           ▼           ▼
+                 OTP         2FA       Roles/Claims
+```
+
+### 🔥 Security Stack
+
+`JWT` `Refresh Tokens` `OTP` `2FA` `OAuth` `Email Verification` `Role-Based Authorization` `Token Rotation`
+
+---
+
+# ⚡ REAL-TIME ENGINEERING
+
+### 💬 ChatHub — Real-Time Communication Platform
+
+A real-time communication system built around **ASP.NET Core + SignalR + Redis**.
+
+```text
+        USER A                                  USER B
+           │                                      │
+           │              MESSAGE                 │
+           └───────────────┐       ┌──────────────┘
+                           ▼       ▼
+                      ┌─────────────┐
+                      │  SIGNALR    │
+                      │    HUB      │
+                      └──────┬──────┘
+                             │
+                    ┌────────┴────────┐
+                    ▼                 ▼
+                 Redis            Database
+                    │
+                    ▼
+             Presence / Cache
+                    │
+                    ▼
+               Real-Time
+               Notification
+```
+
+### Features
+
 * 💬 Real-Time Messaging
-* 🟢 User Presence & Online Status
-* 🔔 Notifications
+* 🟢 Online / Offline Presence
+* 🔔 Real-Time Notifications
 * 📁 File & Image Sharing
 * 🎙️ Voice Communication
+* 🔐 Authentication & Authorization
 * ⚡ SignalR / WebSockets
-* 🚀 Redis for distributed caching & real-time scenarios
+* 🚀 Redis Integration
 
-**Tech:** `ASP.NET Core` `SignalR` `WebSockets` `Redis` `SQL Server` `React`
+`ASP.NET Core` `SignalR` `WebSockets` `Redis` `SQL Server` `React`
 
 ---
 
-### 🔐 Authentication Service
+# 🛡️ AUTHENTICATION SERVICE
 
-A dedicated authentication backend designed with a focus on security, scalability, and maintainability.
+A dedicated authentication backend designed with **Clean Architecture + CQRS**.
 
-**Features:**
+### Features
 
-* User Registration & Login
-* JWT Access & Refresh Tokens
-* Refresh Token Rotation
-* Logout From One / All Devices
-* Email Verification
-* Password Reset
+```text
+REGISTER
+   ↓
+EMAIL VERIFICATION
+   ↓
+LOGIN
+   ↓
+ACCESS TOKEN + REFRESH TOKEN
+   ↓
+AUTHORIZATION
+   ↓
+OTP / 2FA
+   ↓
+SECURE SESSION MANAGEMENT
+```
+
+### Included
+
+* ✅ Registration
+* ✅ Login
+* ✅ JWT Access Tokens
+* ✅ Refresh Tokens
+* ✅ Refresh Token Rotation
+* ✅ Logout From One Device
+* ✅ Logout From All Devices
+* ✅ Email Verification
+* ✅ Password Reset
+* ✅ OTP
+* ✅ Two-Factor Authentication
+* ✅ OAuth
+* ✅ Role-Based Authorization
+
+### Architecture
+
+`Clean Architecture` → `CQRS` → `MediatR` → `FluentValidation` → `Entity Framework Core`
+
+---
+
+# 🧩 TECHNOLOGY STACK
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Backend
+
+* C#
+* .NET
+* ASP.NET Core
+* Web API
+* Entity Framework Core
+* LINQ
+* SignalR
+* REST APIs
+* Middleware
+* Dependency Injection
+* Async / Await
+
+</td>
+
+<td valign="top" width="50%">
+
+### Architecture
+
+* Clean Architecture
+* CQRS
+* SOLID
+* Design Patterns
+* Clean Code
+* Separation of Concerns
+* Repository Pattern
+* Service Layer
+* DTOs
+* Validation
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Security
+
+* JWT
+* Refresh Tokens
 * OTP
-* Two-Factor Authentication
+* 2FA
 * OAuth
+* Email Verification
 * Role-Based Authorization
+* Claims
 
-**Architecture:** `Clean Architecture` `CQRS` `MediatR` `FluentValidation`
+</td>
 
----
+<td valign="top">
 
-## 📊 GitHub Stats
+### Data & Infrastructure
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossamtohamy1&show_icons=true&theme=tokyonight&hide_border=true" alt="Hossam's GitHub Stats" />
-</p>
+* SQL Server
+* PostgreSQL
+* MongoDB
+* Redis
+* Docker
+* Git
+* GitHub
+* Postman
+* Swagger / OpenAPI
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamtohamy1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.facebook.com/hossam.reda.984786" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook"/>
-</a>
-
-<a href="https://discord.gg/1257316206638010408" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40" alt="Discord"/>
-</a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<h3 align="center">💻 Building APIs. Designing Systems. Solving Problems.</h3>
+# 📊 GITHUB PERFORMANCE
 
-<h4 align="center">"Code it. Break it. Understand it. Improve it. 🚀"</h4>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hossamtohamy1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamtohamy1&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=hossamtohamy1&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hossamtohamy1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hossamtohamy1&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hossamtohamy1/hossamtohamy1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 🎯 CURRENT FOCUS
+
+```text
+.NET Backend Development        ████████████████████ 100%
+ASP.NET Core                   ████████████████████ 100%
+Clean Architecture             ██████████████████░░  90%
+CQRS / MediatR                 ██████████████████░░  90%
+Authentication & Security      ██████████████████░░  90%
+SQL Server / EF Core            ██████████████████░░  90%
+Redis                           ███████████████░░░░░  75%
+Docker                          ██████████████░░░░░░  70%
+Microservices                   ████████████░░░░░░░░  60%
+Testing & DevOps                ██████████░░░░░░░░░░  50%
+```
+
+---
+
+# 🧠 ENGINEERING MINDSET
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Don't just make it work.                                 │
+│                                                             │
+│   Make it CLEAN.                                            │
+│   Make it SECURE.                                           │
+│   Make it SCALABLE.                                         │
+│   Make it MAINTAINABLE.                                     │
+│                                                             │
+│   Then make it FAST.                                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# ⚽ BEYOND THE CODE
+
+```text
+💻 Backend Development
+⚽ Football
+🏋️ Gym
+🧠 Problem Solving
+🔥 Learning & Building
+```
+
+---
+
+<div align="center">
+
+### ⚡ BUILDING SYSTEMS, NOT JUST ENDPOINTS.
+
+<br>
+
+<img src="https://img.shields.io/badge/Backend-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Architecture-Clean%20%7C%20CQRS-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Scalable%20Systems-512BD4?style=for-the-badge"/>
+
+<br><br>
+
+**"Code it. Break it. Understand it. Improve it."** 🚀
+
+</div>
