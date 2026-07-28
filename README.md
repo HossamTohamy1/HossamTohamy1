@@ -1,221 +1,325 @@
 <div align="center">
 
-# HOSSAM TOHAMY
-
-### Back-End .NET Developer
-
-**ASP.NET Core · C# · Web API · Clean Architecture · CQRS · Authentication**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=512BD4&center=true&vCenter=true&width=800&lines=ASP.NET+Core+%7C+C%23+%7C+Web+API;Clean+Architecture+%7C+CQRS+%7C+MediatR;JWT+%7C+Refresh+Tokens+%7C+OTP+%7C+2FA+%7C+OAuth;SignalR+%7C+Redis+%7C+Real-Time+Systems" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:7C3AED,100:00D4FF&height=220&section=header&text=HOSSAM%20TOHAMY&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=BACK-END%20.NET%20DEVELOPER%20%7C%20SYSTEM%20BUILDER&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=900&lines=⚡+Building+Powerful+Backend+Systems;🔥+ASP.NET+Core+%7C+C%23+%7C+Web+API;🏗️+Clean+Architecture+%7C+CQRS+%7C+MediatR;🔐+JWT+%7C+OTP+%7C+2FA+%7C+OAuth;⚡+SignalR+%7C+Redis+%7C+Real-Time+Systems;🚀+Turning+Ideas+Into+Production-Ready+APIs" alt="Typing SVG"/>
+
+<br><br>
+
 <a href="https://github.com/HossamTohamy1">
-<img src="https://img.shields.io/badge/GitHub-HossamTohamy1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/">
-<img src="https://img.shields.io/badge/LinkedIn-Hossam%20Tohamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://discord.gg/1257316206638010408">
-<img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,postgres,mongodb,redis,docker,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,redis,docker,mssql,postgres,mongodb,git,github&theme=dark" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HossamTohamy1&label=PROFILE%20VIEWS&color=512BD4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=HossamTohamy1&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 WHO AM I?
 
-I'm a **Back-End .NET Developer** and Computer Science student at **Thebes Higher Institute of Management**.
+<table>
+<tr>
+<td width="60%">
 
-I specialize in building backend applications with:
+### Hey, I'm **Hossam Tohamy** 👨‍💻
 
-* **C# & ASP.NET Core**
-* **ASP.NET Core Web API**
-* **Entity Framework Core**
-* **SQL Server**
-* **Clean Architecture**
-* **CQRS & MediatR**
-* **SOLID & Design Patterns**
-* **JWT Authentication & Authorization**
-* **Refresh Tokens & Token Rotation**
-* **OTP & Two-Factor Authentication**
-* **OAuth**
-* **SignalR & WebSockets**
-* **Redis**
+I'm a **Back-End .NET Developer** and **Computer Science student** at **Thebes Higher Institute of Management**.
 
-I also have hands-on experience with **React, Angular, Laravel, Node.js, Python/FastAPI, and Flutter**.
+I build backend systems that are:
 
----
+**⚡ Fast · 🔐 Secure · 🧩 Maintainable · 📈 Scalable**
 
-## 🔥 What I Build
+My main battlefield is the **.NET ecosystem**, where I work with **ASP.NET Core, Web API, Entity Framework Core, SQL Server, Clean Architecture, CQRS, MediatR, Redis, SignalR, and modern authentication systems.**
 
-* 🔐 Authentication & Authorization Systems
-* 🏗️ Clean Architecture Web APIs
-* 🧩 CQRS-Based Applications
-* ⚡ Real-Time Applications
-* 🛒 E-Commerce Systems
-* 🏨 Hotel & Reservation Systems
-* 📍 Tracking Systems
-* 🏫 Education Management Systems
-* 🏢 ERP Systems
-* 📱 Backend APIs for Mobile Applications
+I don't limit myself to one stack either — I've also built projects using **React, Angular, Laravel, Node.js, Python/FastAPI, and Flutter.**
 
----
+</td>
 
-## 🛠️ Tech Stack
+<td width="40%" align="center">
 
-### Backend
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" width="140"/>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
+<br><br>
 
-`C#` `ASP.NET Core` `Web API` `Entity Framework Core` `LINQ` `SignalR`
+**BACK-END FIRST.**
 
-### Architecture & Development
+`C#`
+`.NET`
+`ASP.NET Core`
+`Web API`
 
-`Clean Architecture` `CQRS` `MediatR` `SOLID` `Design Patterns` `Dependency Injection` `Repository Pattern` `DTOs` `FluentValidation`
+<br>
 
-### Authentication & Security
+**SYSTEMS OVER SCRIPTS.**
 
-`JWT` `Refresh Tokens` `Token Rotation` `Token Revocation` `OTP` `2FA` `OAuth` `Email Verification` `Password Reset` `Role-Based Authorization` `Claims`
-
-### Databases & Caching
-
-<img src="https://skillicons.dev/icons?i=mssql,postgres,mongodb,redis&theme=dark" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css&theme=dark" />
-
-### Other Technologies
-
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,fastapi,flutter,dart&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma&theme=dark" />
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+# ⚔️ MY MAIN STACK
 
-### 🛒 [Ecommerc_Rose](https://github.com/HossamTohamy1/Ecommerc_Rose)
+<div align="center">
 
-E-commerce backend built with **ASP.NET Core, Clean Architecture, CQRS and MediatR**.
+### 🧠 BACKEND CORE
 
-**Features:** Cart Management · User Management · Offers · Audit Logging · Orders · Order Status Notifications
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark"/>
 
-`ASP.NET Core` `C#` `Clean Architecture` `CQRS` `MediatR` `Mapster` `FluentValidation`
+<br>
+
+`C#` · `ASP.NET Core` · `Web API` · `EF Core` · `LINQ`
 
 ---
 
-### 🏨 [Hotel_System](https://github.com/HossamTohamy1/Hotel_System)
+### 🏗️ ARCHITECTURE & ENGINEERING
 
-Hotel reservation system built with **ASP.NET Core and Clean Architecture**.
+<img src="https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CQRS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediatR-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design_Patterns-0EA5E9?style=for-the-badge"/>
 
-**Features:** Reservation Management · Dynamic Permission-Based Authorization · Stripe Payments · Structured Logging
+<br><br>
 
-`ASP.NET Core` `C#` `Clean Architecture` `CQRS` `Stripe` `Serilog`
+`Clean Architecture` · `CQRS` · `MediatR` · `SOLID` · `Design Patterns` · `Dependency Injection` · `Repository Pattern` · `DTOs` · `FluentValidation`
+
+---
+
+### 🔐 SECURITY & AUTHENTICATION
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OTP-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2FA-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
+
+<br><br>
+
+`JWT Authentication` · `Authorization` · `Refresh Tokens` · `Token Rotation` · `Token Revocation` · `OTP` · `2FA` · `OAuth` · `Email Verification` · `Password Reset` · `Roles & Claims`
+
+---
+
+### ⚡ REAL-TIME
+
+<img src="https://skillicons.dev/icons?i=redis&theme=dark"/>
+
+<br>
+
+`SignalR` · `WebSockets` · `Redis` · `Real-Time Messaging` · `Presence` · `Notifications`
+
+---
+
+### 🗄️ DATA
+
+<img src="https://skillicons.dev/icons?i=mssql,postgres,mongodb,redis&theme=dark"/>
+
+<br>
+
+`SQL Server` · `PostgreSQL` · `MongoDB` · `Redis`
+
+</div>
+
+---
+
+# 🌎 POLYGLOT DEVELOPER
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,laravel,php,nodejs,python,fastapi,flutter,dart&theme=dark"/>
+
+<br><br>
+
+`React` · `Angular` · `TypeScript` · `JavaScript`
+`Laravel` · `PHP` · `Node.js` · `Python` · `FastAPI`
+`Flutter` · `Dart`
+
+</div>
+
+---
+
+# 🚀 PROJECTS THAT SHOW WHAT I BUILD
+
+<div align="center">
+
+### 🔥 BACKEND / .NET
+
+</div>
+
+### 🛒 Ecommerc_Rose
+
+<a href="https://github.com/HossamTohamy1/Ecommerc_Rose">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-512BD4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**E-commerce backend built with Clean Architecture + CQRS + MediatR.**
+
+`ASP.NET Core` `C#` `EF Core` `CQRS` `MediatR` `Mapster` `FluentValidation`
+
+**Includes:**
+🛒 Cart Management · 👤 Users · 🏷️ Offers · 📦 Orders · 🧾 Audit Logging · 🔔 Order Notifications
+
+---
+
+### 🏨 Hotel_System
+
+<a href="https://github.com/HossamTohamy1/Hotel_System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**Hotel reservation backend with advanced authorization and payment integration.**
+
+`ASP.NET Core` `Clean Architecture` `CQRS` `Stripe` `Serilog`
+
+**Includes:**
+🏨 Reservations · 🔐 Dynamic Permissions · 💳 Stripe Payments · 📝 Structured Logging
 
 ---
 
 ### 🔐 Authentication Service
 
-Backend authentication system focused on secure identity and access management.
+**Secure authentication backend focused on modern identity and access management.**
 
-**Features:** Registration · Email Verification · Login · JWT · Refresh Tokens · Token Rotation · OTP · 2FA · OAuth · Password Reset · Logout From One Device · Logout From All Devices · Role-Based Authorization
+`JWT` `Refresh Tokens` `OTP` `2FA` `OAuth` `CQRS` `Clean Architecture`
 
-`ASP.NET Core` `JWT` `Refresh Tokens` `OTP` `2FA` `OAuth` `CQRS` `Clean Architecture`
-
----
-
-### 💬 Chat / Real-Time Communication
-
-Real-time communication backend using **SignalR, WebSockets and Redis**.
-
-**Features:** Real-Time Messaging · Online/Offline Presence · Notifications · File Sharing · Image Sharing · Voice Communication
-
-`ASP.NET Core` `SignalR` `WebSockets` `Redis`
+**Includes:**
+🔑 Registration · ✉️ Email Verification · 🎫 JWT · 🔄 Refresh Token Rotation · 🚫 Token Revocation · 🔢 OTP · 🛡️ 2FA · 🔐 OAuth · 🔑 Password Reset · 👥 Roles & Claims
 
 ---
 
-### 📝 [ExaminationSystem](https://github.com/HossamTohamy1/ExaminationSystem)
+### 💬 Real-Time Chat
 
-Examination management system built with **ASP.NET Core, Entity Framework Core and Layered Architecture**.
+**Real-time communication system using SignalR, WebSockets and Redis.**
 
-`C#` `.NET` `EF Core` `Layered Architecture`
+`SignalR` `WebSockets` `Redis` `Real-Time`
 
----
-
-### 🧩 [ModularERP](https://github.com/HossamTohamy1/ModularERP) `PRIVATE`
-
-Modular ERP backend application.
-
-`C#` `.NET`
+**Includes:**
+💬 Messaging · 🟢 Presence · 🔔 Notifications · 📁 Files · 🖼️ Images · 🎙️ Voice
 
 ---
 
-### 📍 [Tracking](https://github.com/HossamTohamy1/Tracking) + [Tracking_React](https://github.com/HossamTohamy1/Tracking_React)
+### 📍 Tracking System
 
-Tracking system combining a **.NET backend** with a **React + TypeScript frontend**.
+<a href="https://github.com/HossamTohamy1/Tracking">
+<img src="https://img.shields.io/badge/.NET_BACKEND-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</a>
 
-`ASP.NET Core` `C#` `React` `TypeScript`
+<a href="https://github.com/HossamTohamy1/Tracking_React">
+<img src="https://img.shields.io/badge/REACT_FRONTEND-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</a>
+
+**Full-stack tracking platform combining .NET + React + TypeScript.**
 
 ---
 
-### 🛍️ [Ecommerc_.NET_Flutter](https://github.com/HossamTohamy1/Ecommerc_.NET_Flutter)
+### 🛍️ Ecommerc_.NET_Flutter
 
-E-commerce application with a **.NET backend and Flutter client**.
+<a href="https://github.com/HossamTohamy1/Ecommerc_.NET_Flutter">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**E-commerce ecosystem connecting a .NET backend with Flutter.**
 
 `ASP.NET Core` `C#` `Flutter` `Dart`
 
 ---
 
-## 📦 Other Projects
+### 📝 ExaminationSystem
 
-| Project                                                                               | Technology       |
-| ------------------------------------------------------------------------------------- | ---------------- |
-| [Tourism_System](https://github.com/HossamTohamy1/Tourism_System)                     | JavaScript       |
-| [Hotel_System_Laravel](https://github.com/HossamTohamy1/Hotel_System_Laravel)         | Laravel · PHP    |
-| [Ecommerc_laravel](https://github.com/HossamTohamy1/Ecommerc_laravel)                 | Laravel · PHP    |
-| [Ecommerc_node.js](https://github.com/HossamTohamy1/Ecommerc_node.js)                 | Node.js          |
-| [Ecommerce_Python-FastApi](https://github.com/HossamTohamy1/Ecommerce_Python-FastApi) | Python · FastAPI |
-| [Chat_Websocket](https://github.com/HossamTohamy1/Chat_Websocket)                     | PHP · WebSocket  |
-| [Saraha](https://github.com/HossamTohamy1/Saraha)                                     | Laravel          |
-| [School](https://github.com/HossamTohamy1/School)                                     | C# · .NET        |
-| [Classes_Managment-.NET-](https://github.com/HossamTohamy1/Classes_Managment-.NET-)   | C# · .NET        |
-| [Hosptial](https://github.com/HossamTohamy1/Hosptial)                                 | C# · .NET        |
-| [Flutter](https://github.com/HossamTohamy1/Flutter)                                   | Flutter · Dart   |
+<a href="https://github.com/HossamTohamy1/ExaminationSystem">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**Examination management system built with .NET and EF Core.**
+
+`C#` `ASP.NET Core` `EF Core` `Layered Architecture`
 
 ---
 
-# 👨‍🏫 Teaching
+### 🧩 ModularERP
 
-I teach technical courses through **eYouth Academy** and **DECI** programs.
+**Modular ERP backend application.**
 
-### Topics
+`C#` `.NET`
 
-`Cybersecurity` · `Web Development` · `Data Science` · `EDA` · `AI Concepts` · `Databases` · `Computer Science Fundamentals`
-
-I focus on explaining technical concepts clearly and connecting theory with practical examples and hands-on exercises.
+🔒 `PRIVATE REPOSITORY`
 
 ---
 
-# 📊 GitHub Stats
+# 📦 MORE PROJECTS
+
+<div align="center">
+
+| 🚀 Project                                                                            | 🧰 Stack           |
+| :------------------------------------------------------------------------------------ | :----------------- |
+| [Tourism_System](https://github.com/HossamTohamy1/Tourism_System)                     | `JavaScript`       |
+| [Hotel_System_Laravel](https://github.com/HossamTohamy1/Hotel_System_Laravel)         | `Laravel` `PHP`    |
+| [Ecommerc_laravel](https://github.com/HossamTohamy1/Ecommerc_laravel)                 | `Laravel`          |
+| [Ecommerc_node.js](https://github.com/HossamTohamy1/Ecommerc_node.js)                 | `Node.js`          |
+| [Ecommerce_Python-FastApi](https://github.com/HossamTohamy1/Ecommerce_Python-FastApi) | `Python` `FastAPI` |
+| [Chat_Websocket](https://github.com/HossamTohamy1/Chat_Websocket)                     | `PHP` `WebSocket`  |
+| [Saraha](https://github.com/HossamTohamy1/Saraha)                                     | `Laravel` `Blade`  |
+| [School](https://github.com/HossamTohamy1/School)                                     | `C#` `.NET`        |
+| [Classes_Managment-.NET-](https://github.com/HossamTohamy1/Classes_Managment-.NET-)   | `C#` `.NET`        |
+| [Hosptial](https://github.com/HossamTohamy1/Hosptial)                                 | `C#` `.NET`        |
+| [Flutter](https://github.com/HossamTohamy1/Flutter)                                   | `Flutter` `Dart`   |
+
+</div>
+
+---
+
+# 👨‍🏫 TEACHING & KNOWLEDGE SHARING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/eYouth-Academy-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DECI-Technology-00D4FF?style=for-the-badge"/>
+
+<br><br>
+
+`Cybersecurity` · `Web Development` · `Data Science` · `EDA` · `AI` · `Databases` · `Computer Science`
+
+</div>
+
+I also teach technical content through **eYouth Academy and DECI programs**, focusing on practical explanations, real examples, and hands-on learning.
+
+---
+
+# 🧰 TOOLS I WORK WITH
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma&theme=dark"/>
+
+<br><br>
+
+`Docker` · `Git` · `GitHub` · `Postman` · `Figma`
+
+</div>
+
+---
+
+# 📊 GITHUB STATS
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=HossamTohamy1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamTohamy1&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamTohamy1&layout=compact&theme=tokyonight&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br><br>
 
@@ -225,7 +329,7 @@ I focus on explaining technical concepts clearly and connecting theory with prac
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
@@ -235,7 +339,7 @@ I focus on explaining technical concepts clearly and connecting theory with prac
 
 ---
 
-# 📈 Contribution Graph
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -245,7 +349,7 @@ I focus on explaining technical concepts clearly and connecting theory with prac
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -255,26 +359,28 @@ I focus on explaining technical concepts clearly and connecting theory with prac
 
 ---
 
-## ⚽ Beyond Code
-
-`⚽ Football` · `🏋️ Gym` · `💻 Backend Development` · `🧠 Problem Solving` · `🔥 Learning`
-
----
-
 <div align="center">
 
-### Building Secure, Scalable & Maintainable Backend Systems.
+## ⚡ BUILD. BREAK. FIX. SHIP. REPEAT.
 
-**C# · .NET · ASP.NET Core · CQRS · Clean Architecture · SQL Server · Redis**
+### `BACK-END .NET DEVELOPER`
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,redis,docker&theme=dark"/>
+
+<br><br>
+
+**Building secure, scalable and maintainable backend systems.**
 
 <br>
 
 <a href="https://github.com/HossamTohamy1">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐_EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤝_LET'S_CONNECT-0A66C2?style=for-the-badge"/>
 </a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7C3AED,100:512BD4&height=120&section=footer" width="100%"/>
