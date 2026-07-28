@@ -12,6 +12,10 @@
 <a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/"><img src="https://img.shields.io/badge/LinkedIn-Hossam%20Tohamy-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://discord.gg/1257316206638010408"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,postgres,mongodb,redis,docker,git,github&theme=dark" />
+
 </div>
 
 ---
@@ -27,26 +31,38 @@ Alongside development, I teach technology courses (web development, cybersecurit
 ## Featured Projects
 
 ### 🛒 [Ecommerc_Rose](https://github.com/HossamTohamy1/Ecommerc_Rose)
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="28"/>
+
 E-commerce backend built with Clean Architecture and CQRS/MediatR, using Mapster and FluentValidation. Includes cart, user management, offers, audit logging, and order-status notifications.
 `ASP.NET Core` `Clean Architecture` `CQRS` `Mapster`
 
 ### 🏨 [Hotel_System](https://github.com/HossamTohamy1/Hotel_System)
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="28"/>
+
 Hotel reservation backend with Clean Architecture, dynamic permission-based authorization, Stripe payment integration, and structured logging.
 `ASP.NET Core` `Clean Architecture` `CQRS` `Stripe` `Serilog`
 
 ### 📝 [ExaminationSystem](https://github.com/HossamTohamy1/ExaminationSystem)
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="28"/>
+
 Examination management system built with a layered architecture approach.
 `ASP.NET Core` `Layered Architecture` `EF Core`
 
 ### 🧩 [ModularERP](https://github.com/HossamTohamy1/ModularERP) `Private`
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="28"/>
+
 Modular ERP system backend.
 `C#` `.NET`
 
 ### 📦 [Tracking](https://github.com/HossamTohamy1/Tracking) / [Tracking_React](https://github.com/HossamTohamy1/Tracking_React)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts&theme=dark" height="28"/>
+
 Tracking system with a .NET backend and a React/TypeScript front end.
 `ASP.NET Core` `TypeScript` `React`
 
 ### 🌍 [Ecommerc_.NET_Flutter](https://github.com/HossamTohamy1/Ecommerc_.NET_Flutter)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart&theme=dark" height="28"/>
+
 E-commerce project with a .NET backend and a Flutter client.
 `ASP.NET Core` `Flutter` `Dart`
 
@@ -56,31 +72,48 @@ E-commerce project with a .NET backend and a Flutter client.
 
 | Repo | Stack |
 |---|---|
-| [Tourism_System](https://github.com/HossamTohamy1/Tourism_System) | JavaScript |
-| [Hotel_System_Laravel](https://github.com/HossamTohamy1/Hotel_System_Laravel) | PHP / Laravel |
-| [Ecommerc_laravel](https://github.com/HossamTohamy1/Ecommerc_laravel) | Laravel |
-| [Ecommerc_node.js](https://github.com/HossamTohamy1/Ecommerc_node.js) | Node.js |
-| [Ecommerce_Python-FastApi](https://github.com/HossamTohamy1/Ecommerce_Python-FastApi) | Python / FastAPI |
-| [Chat_Websocket](https://github.com/HossamTohamy1/Chat_Websocket) | PHP |
-| [Saraha](https://github.com/HossamTohamy1/Saraha) | Laravel/Blade |
-| [School](https://github.com/HossamTohamy1/School) | C# |
-| [Classes_Managment-.NET-](https://github.com/HossamTohamy1/Classes_Managment-.NET-) | C# |
-| [Hosptial](https://github.com/HossamTohamy1/Hosptial) | C# |
-| [Flutter](https://github.com/HossamTohamy1/Flutter) | Dart |
+| [Tourism_System](https://github.com/HossamTohamy1/Tourism_System) | <img src="https://skillicons.dev/icons?i=js&theme=dark" height="24"/> |
+| [Hotel_System_Laravel](https://github.com/HossamTohamy1/Hotel_System_Laravel) | <img src="https://skillicons.dev/icons?i=laravel,php&theme=dark" height="24"/> |
+| [Ecommerc_laravel](https://github.com/HossamTohamy1/Ecommerc_laravel) | <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="24"/> |
+| [Ecommerc_node.js](https://github.com/HossamTohamy1/Ecommerc_node.js) | <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="24"/> |
+| [Ecommerce_Python-FastApi](https://github.com/HossamTohamy1/Ecommerce_Python-FastApi) | <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="24"/> |
+| [Chat_Websocket](https://github.com/HossamTohamy1/Chat_Websocket) | <img src="https://skillicons.dev/icons?i=php&theme=dark" height="24"/> |
+| [Saraha](https://github.com/HossamTohamy1/Saraha) | <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="24"/> |
+| [School](https://github.com/HossamTohamy1/School) | <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="24"/> |
+| [Classes_Managment-.NET-](https://github.com/HossamTohamy1/Classes_Managment-.NET-) | <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="24"/> |
+| [Hosptial](https://github.com/HossamTohamy1/Hosptial) | <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="24"/> |
+| [Flutter](https://github.com/HossamTohamy1/Flutter) | <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" height="24"/> |
 
 ---
 
 ## Tech Stack
 
-**Backend:** C# · ASP.NET Core · Web API · Entity Framework Core · SignalR · REST APIs
+<table>
+<tr>
+<td align="center" width="20%"><b>Core Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=cs,dotnet,dotnetcore&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Databases & Cache</b></td>
+<td><img src="https://skillicons.dev/icons?i=mssql,postgres,mongodb,redis&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Front End</b></td>
+<td><img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Other Stacks I've Built With</b></td>
+<td><img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,fastapi,flutter,dart&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Tools & DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma&theme=dark"/></td>
+</tr>
+</table>
 
-**Architecture:** Clean Architecture · CQRS · MediatR · SOLID · Repository Pattern · DTOs
+**Architecture:** `Clean Architecture` `CQRS` `MediatR` `SOLID` `Repository Pattern` `DTOs`
 
-**Security:** JWT · Refresh Tokens · OTP · 2FA · OAuth · Role-Based Authorization
-
-**Data & Infra:** SQL Server · PostgreSQL · MongoDB · Redis · Docker · Git
-
-**Also worked with:** Angular · React · TypeScript · Laravel (PHP) · Node.js · Python/FastAPI · Flutter
+**Security:** `JWT` `Refresh Tokens` `OTP` `2FA` `OAuth` `Role-Based Authorization`
 
 ---
 
