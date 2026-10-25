@@ -223,10 +223,6 @@ I teach **Cybersecurity**, **Web Development**, **Data Science & EDA**, **AI** a
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamTohamy1&layout=compact&langs_count=6&hide=html,css,scss,cmake,c%2B%2B,swift&hide_border=true&border_radius=10&card_width=320&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamTohamy1&layout=compact&langs_count=6&hide=html,css,scss,cmake,c%2B%2B,swift&hide_border=true&border_radius=10&card_width=320&bg_color=F6F8FA&title_color=512BD4&text_color=24292F" height="170" alt="Top languages"/>
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HossamTohamy1&hide_border=true&border_radius=10&background=0D1117&stroke=30363D&ring=7C3AED&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E"/>
   <img src="https://streak-stats.demolab.com?user=HossamTohamy1&hide_border=true&border_radius=10&background=F6F8FA&stroke=D0D7DE&ring=7C3AED&fire=0891B2&currStreakNum=24292F&sideNums=24292F&currStreakLabel=512BD4&sideLabels=57606A&dates=57606A" height="170" alt="GitHub streak"/>
 </picture>
