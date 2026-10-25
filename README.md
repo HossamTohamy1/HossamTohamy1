@@ -196,9 +196,9 @@ Rooms & facilities, multi-room reservations, offers, payments and reviews — wi
 - [x] Clean Architecture + CQRS with MediatR
 - [x] JWT, refresh-token rotation, OTP & 2FA
 - [x] Real-time apps with SignalR
-- [ ] Distributed caching with Redis
-- [ ] Messaging & event-driven architecture
-- [ ] Containerized, scalable APIs with Docker
+- [x] Distributed caching with Redis
+- [x] Messaging & event-driven architecture
+- [x] Containerized, scalable APIs with Docker
 
 <div align="center">
 
