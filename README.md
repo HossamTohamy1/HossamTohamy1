@@ -17,68 +17,31 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-## 👨‍💻 About Me
-
-I'm **Hossam** — a **Back-End .NET Developer** and Computer Science student.
-I design **secure APIs**, **clean, testable architectures**, and **real-time systems** that keep working when the traffic shows up.
-
-```csharp
-public sealed record Developer
-{
-    public string   Name      { get; } = "Hossam Tohamy";
-    public string   Role      { get; } = "Back-End .NET Developer";
-    public string   Education { get; } = "Computer Science Student";
-    public string   Teaching  { get; } = "eYouth Academy · DECI";
-
-    public string[] Core      { get; } = ["C#", ".NET 10", "ASP.NET Core", "EF Core", "LINQ"];
-    public string[] Patterns  { get; } = ["Clean Architecture", "CQRS", "MediatR", "SOLID"];
-    public string[] Security  { get; } = ["JWT", "Refresh Token Rotation", "OTP", "2FA", "OAuth"];
-    public string[] RealTime  { get; } = ["SignalR", "WebSockets", "Redis"];
-
-    public string CurrentFocus => "Distributed systems · Caching · Messaging";
-    public string Motto        => "Building backends, not just endpoints.";
-}
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
-
-## 🎯 Engineering Focus
-
-| Area | What I actually ship |
-| :-- | :-- |
-| 🏗️ **Architecture** | Clean Architecture with clear Domain · Application · Infrastructure · API boundaries, CQRS through MediatR, validation & logging as pipeline behaviors. |
-| 🔐 **Security** | JWT access tokens with refresh-token rotation & revocation, OTP & 2FA flows, OAuth sign-in, role- and feature-based authorization. |
-| ⚡ **Real-Time** | SignalR hubs and WebSockets for messaging, presence, notifications and live updates, backed by Redis. |
-| 💳 **Integrations** | Stripe payments & webhooks, transactional email, media uploads, PDF & Excel exports. |
-| 🚀 **Performance** | In-memory & Redis caching, response compression, paging, async end to end. |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
-
-## 🧠 How I Build a Backend
+## How I Build a Backend
 
 ```mermaid
 flowchart TB
-    client(["📱 Client · Web / Mobile"])
+    client(["Client · Web / Mobile"])
 
-    subgraph api ["🌐 API Layer"]
+    subgraph api ["API Layer"]
         ep["ASP.NET Core Endpoints"]
     end
 
-    subgraph rt ["⚡ Real-Time"]
+    subgraph rt ["Real-Time"]
         hub["SignalR Hub"]
     end
 
-    subgraph app ["🧩 Application Layer"]
+    subgraph app ["Application Layer"]
         med{{"MediatR Pipeline<br/>Validation · Logging"}}
         cmd["Commands"]
         qry["Queries"]
     end
 
-    subgraph core ["💎 Domain"]
+    subgraph core ["Domain"]
         ent["Entities · Business Rules"]
     end
 
-    subgraph infra ["🏗️ Infrastructure"]
+    subgraph infra ["Infrastructure"]
         db[("SQL Server<br/>EF Core")]
         cache[("Redis<br/>Cache")]
         ext["Stripe · Email"]
@@ -110,13 +73,13 @@ flowchart TB
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗓️ [TimeTable](https://github.com/HossamTohamy1/Time-Mangments)
+### [TimeTable](https://github.com/HossamTohamy1/Time-Mangments)
 
 **Configuration-driven school & university timetabling — bilingual AR / EN.**
 
@@ -131,7 +94,7 @@ Generates timetables with the OR-Tools CP-SAT solver, pushes live changes over S
 </td>
 <td width="50%" valign="top">
 
-### 🚢 [Tracking](https://github.com/HossamTohamy1/Tracking)
+### [Tracking](https://github.com/HossamTohamy1/Tracking)
 
 **Import & shipment tracking platform.**
 
@@ -148,7 +111,7 @@ Customers request an import, get the full cost calculated (shipping, customs, fe
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ [Loma — AuraCommerce](https://github.com/HossamTohamy1/Loma)
+### [Loma — AuraCommerce](https://github.com/HossamTohamy1/Loma)
 
 **Online store API with a built-in theme customizer.**
 
@@ -162,7 +125,7 @@ Products, categories, cart and orders, plus a no-code store designer. Tuned with
 </td>
 <td width="50%" valign="top">
 
-### 🏨 [Hotel System](https://github.com/HossamTohamy1/Hotel_System)
+### [Hotel System](https://github.com/HossamTohamy1/Hotel_System)
 
 **Hotel operations back-end.**
 
@@ -178,7 +141,7 @@ Rooms & facilities, multi-room reservations, offers, payments and reviews — wi
 </table>
 
 <details>
-<summary><b>📂 More projects</b></summary>
+<summary><b>More projects</b></summary>
 <br/>
 
 | Project | What it is | Stack |
@@ -194,7 +157,7 @@ Rooms & facilities, multi-room reservations, offers, payments and reviews — wi
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <table>
 <tr>
@@ -216,7 +179,7 @@ Rooms & facilities, multi-room reservations, offers, payments and reviews — wi
 </table>
 
 <details>
-<summary><b>🌐 Beyond .NET — comfortable crossing the stack when the project needs it</b></summary>
+<summary><b>Beyond .NET — comfortable crossing the stack when the project needs it</b></summary>
 <br/>
 
 <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,python,fastapi,laravel,php,flutter,dart&theme=dark" alt="Other stacks"/>
@@ -227,7 +190,7 @@ Rooms & facilities, multi-room reservations, offers, payments and reviews — wi
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-## 🧭 Leveling Up
+## Leveling Up
 
 - [x] ASP.NET Core Web API, EF Core & SQL Server
 - [x] Clean Architecture + CQRS with MediatR
@@ -245,7 +208,7 @@ Rooms & facilities, multi-room reservations, offers, payments and reviews — wi
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-## 👨‍🏫 Teaching
+## Teaching
 
 <img src="https://img.shields.io/badge/eYouth_Academy-512BD4?style=for-the-badge" alt="eYouth Academy"/>
 <img src="https://img.shields.io/badge/DECI-00BFFF?style=for-the-badge" alt="DECI"/>
@@ -255,7 +218,7 @@ I teach **Cybersecurity**, **Web Development**, **Data Science & EDA**, **AI** a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -273,7 +236,7 @@ I teach **Cybersecurity**, **Web Development**, **Data Science & EDA**, **AI** a
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HossamTohamy1&theme=github" width="90%" alt="Contribution graph"/>
 </picture>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HossamTohamy1/HossamTohamy1/output/github-contribution-grid-snake-dark.svg"/>
@@ -286,14 +249,14 @@ I teach **Cybersecurity**, **Web Development**, **Data Science & EDA**, **AI** a
 
 <div align="center">
 
-**Outside the code:** ⚽ Football · 🏋️ Gym · 🧠 Always learning
+**Outside the code:** Football · Gym · Always learning
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=BUILD.%20BREAK.%20FIX.%20SHIP.%20REPEAT.&fontSize=26&fontColor=00E5FF&fontAlignY=50&animation=twinkling" alt="Build. Break. Fix. Ship. Repeat."/>
 
-<a href="https://github.com/HossamTohamy1"><img src="https://img.shields.io/badge/⭐_Explore_my_repos-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repos"/></a>
-<a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/"><img src="https://img.shields.io/badge/🤝_Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect"/></a>
+<a href="https://github.com/HossamTohamy1"><img src="https://img.shields.io/badge/Explore_my_repos-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repos"/></a>
+<a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect"/></a>
 
-<sub><a href="#readme-top">⬆ Back to top</a></sub>
+<sub><a href="#readme-top">Back to top</a></sub>
 
 </div>
 
