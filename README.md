@@ -17,58 +17,49 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-## How I Build a Backend
+## How I Architect Backends
 
 ```mermaid
 flowchart TB
-    client(["Client · Web / Mobile"])
+    clients(["<b>Clients</b><br/>Web SPA · Mobile App<br/>Third-Party Webhooks"])
 
-    subgraph api ["API Layer"]
-        ep["ASP.NET Core Endpoints"]
+    sec["<b>Security & Middleware</b><br/>JWT · Refresh Rotation<br/>OTP · 2FA · OAuth 2.0<br/>Role & Feature Policies<br/>Global Error Handling"]
+
+    subgraph sln ["Clean Architecture"]
+        pres["<b>Presentation</b><br/>REST API · Minimal APIs<br/>SignalR Hubs · Swagger"]
+        infra["<b>Infrastructure</b><br/>EF Core · Repositories<br/>Identity · Redis Cache<br/>Event Bus · Messaging<br/>Email · OTP · Stripe"]
+        app["<b>Application</b><br/>MediatR · CQRS<br/>Commands · Queries<br/>Pipeline Behaviors<br/>FluentValidation · DTOs"]
+        domain["<b>Domain</b><br/>Entities · Value Objects<br/>Domain Events · Rules<br/>Zero Dependencies"]
     end
 
-    subgraph rt ["Real-Time"]
-        hub["SignalR Hub"]
-    end
+    data[("<b>Data Stores</b><br/>SQL Server · PostgreSQL<br/>MongoDB · Redis")]
 
-    subgraph app ["Application Layer"]
-        med{{"MediatR Pipeline<br/>Validation · Logging"}}
-        cmd["Commands"]
-        qry["Queries"]
-    end
+    cross["<b>Cross-Cutting</b><br/>Serilog · Docker<br/>Unit & Integration Tests<br/>SOLID · Design Patterns"]
 
-    subgraph core ["Domain"]
-        ent["Entities · Business Rules"]
-    end
+    clients -- "HTTPS · WebSockets" --> sec
+    sec --> pres
+    pres --> app
+    infra -- "implements interfaces" --> app
+    app --> domain
+    infra --> domain
+    infra --> data
+    domain ~~~ cross
 
-    subgraph infra ["Infrastructure"]
-        db[("SQL Server<br/>EF Core")]
-        cache[("Redis<br/>Cache")]
-        ext["Stripe · Email"]
-    end
-
-    client -- "HTTPS + JWT" --> ep
-    ep --> med
-    med --> cmd & qry
-    cmd --> ent
-    cmd --> db
-    cmd --> ext
-    qry --> cache
-    cache -. "miss" .-> db
-    cmd -. "events" .-> hub
-    hub -. "live updates" .-> client
-
-    classDef svc fill:#512BD4,stroke:#7C3AED,color:#FFFFFF
-    classDef store fill:#0E7490,stroke:#00E5FF,color:#FFFFFF
-    classDef outer fill:#111827,stroke:#00BFFF,color:#FFFFFF
-    class ep,hub,med,cmd,qry,ent svc
-    class db,cache store
-    class client,ext outer
-    style api fill:#7C3AED14,stroke:#7C3AED
-    style rt fill:#00BFFF14,stroke:#00BFFF
-    style app fill:#7C3AED14,stroke:#7C3AED
-    style core fill:#00BFFF14,stroke:#00BFFF
-    style infra fill:#00E5FF14,stroke:#00E5FF
+    classDef client fill:#111827,stroke:#00BFFF,color:#FFFFFF
+    classDef secure fill:#7F1D1D,stroke:#EF4444,color:#FFFFFF
+    classDef layer fill:#512BD4,stroke:#A78BFA,color:#FFFFFF
+    classDef core fill:#3B0764,stroke:#C4B5FD,color:#FFFFFF
+    classDef infraC fill:#0E7490,stroke:#00E5FF,color:#FFFFFF
+    classDef store fill:#155E75,stroke:#00E5FF,color:#FFFFFF
+    classDef xcut fill:#1E293B,stroke:#94A3B8,color:#FFFFFF
+    class clients client
+    class sec secure
+    class pres,app layer
+    class domain core
+    class infra infraC
+    class data store
+    class cross xcut
+    style sln fill:#7C3AED14,stroke:#7C3AED,stroke-width:2px
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
