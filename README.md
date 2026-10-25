@@ -1,446 +1,300 @@
+<a id="readme-top"></a>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,25:512BD4,55:7C3AED,80:00BFFF,100:00E5FF&height=240&section=header&text=HOSSAM%20TOHAMY&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=BACK-END%20.NET%20DEVELOPER&descAlignY=58&descSize=20&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,25:512BD4,55:7C3AED,80:00BFFF,100:00E5FF&height=250&section=header&text=Hossam%20Tohamy&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Back-End%20.NET%20Developer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Instructor&descAlignY=57&descSize=18&animation=twinkling" width="100%" alt="Hossam Tohamy — Back-End .NET Developer"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=760&lines=Back-End+.NET+Developer;Clean+Architecture+%C2%B7+CQRS+%C2%B7+MediatR;JWT+%C2%B7+Refresh+Token+Rotation+%C2%B7+2FA+%C2%B7+OAuth;SignalR+%C2%B7+Redis+%C2%B7+Real-Time+Systems;Building+backends%2C+not+just+endpoints." alt="Typing animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=C%23+%7C+.NET+%7C+ASP.NET+CORE;CLEAN+ARCHITECTURE+%7C+CQRS+%7C+MEDIATR;JWT+%7C+OTP+%7C+2FA+%7C+OAUTH;SIGNALR+%7C+REDIS+%7C+REAL-TIME;BUILDING+BACKENDS%2C+NOT+JUST+ENDPOINTS." alt="Typing SVG"/>
+<br/>
 
-<br><br>
-
-<a href="https://github.com/HossamTohamy1">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://discord.gg/1257316206638010408">
-<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,redis,docker,mssql,postgres,mongodb,git,github&theme=dark"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=HossamTohamy1&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+<a href="https://github.com/HossamTohamy1"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://discord.com/users/1257316206638010408"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<img src="https://komarev.com/ghpvc/?username=HossamTohamy1&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-<div align="center">
+## 👨‍💻 About Me
 
-# 👨‍💻 ABOUT ME
+I'm **Hossam** — a **Back-End .NET Developer** and Computer Science student.
+I design **secure APIs**, **clean, testable architectures**, and **real-time systems** that keep working when the traffic shows up.
 
-### I'm **Hossam Tohamy** — a Back-End .NET Developer & Computer Science Student.
+```csharp
+public sealed record Developer
+{
+    public string   Name      { get; } = "Hossam Tohamy";
+    public string   Role      { get; } = "Back-End .NET Developer";
+    public string   Education { get; } = "Computer Science Student";
+    public string   Teaching  { get; } = "eYouth Academy · DECI";
 
-**I build secure APIs, scalable backend systems, and real-time applications.**
+    public string[] Core      { get; } = ["C#", ".NET 10", "ASP.NET Core", "EF Core", "LINQ"];
+    public string[] Patterns  { get; } = ["Clean Architecture", "CQRS", "MediatR", "SOLID"];
+    public string[] Security  { get; } = ["JWT", "Refresh Token Rotation", "OTP", "2FA", "OAuth"];
+    public string[] RealTime  { get; } = ["SignalR", "WebSockets", "Redis"];
 
-<br>
+    public string CurrentFocus => "Distributed systems · Caching · Messaging";
+    public string Motto        => "Building backends, not just endpoints.";
+}
+```
 
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ECOSYSTEM-.NET-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/MINDSET-ENGINEERING-00BFFF?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-</div>
+## 🎯 Engineering Focus
 
-<br>
+| Area | What I actually ship |
+| :-- | :-- |
+| 🏗️ **Architecture** | Clean Architecture with clear Domain · Application · Infrastructure · API boundaries, CQRS through MediatR, validation & logging as pipeline behaviors. |
+| 🔐 **Security** | JWT access tokens with refresh-token rotation & revocation, OTP & 2FA flows, OAuth sign-in, role- and feature-based authorization. |
+| ⚡ **Real-Time** | SignalR hubs and WebSockets for messaging, presence, notifications and live updates, backed by Redis. |
+| 💳 **Integrations** | Stripe payments & webhooks, transactional email, media uploads, PDF & Excel exports. |
+| 🚀 **Performance** | In-memory & Redis caching, response compression, paging, async end to end. |
 
-<table align="center">
-<tr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-<td align="center" width="25%">
+## 🧠 How I Build a Backend
 
-### ⚡ BACKEND
+```mermaid
+flowchart TB
+    client(["📱 Client · Web / Mobile"])
 
-`C#`
-`ASP.NET Core`
-`Web API`
-`EF Core`
+    subgraph api ["🌐 API Layer"]
+        ep["ASP.NET Core Endpoints"]
+    end
 
-</td>
+    subgraph rt ["⚡ Real-Time"]
+        hub["SignalR Hub"]
+    end
 
-<td align="center" width="25%">
+    subgraph app ["🧩 Application Layer"]
+        med{{"MediatR Pipeline<br/>Validation · Logging"}}
+        cmd["Commands"]
+        qry["Queries"]
+    end
 
-### 🏗️ ARCHITECTURE
+    subgraph core ["💎 Domain"]
+        ent["Entities · Business Rules"]
+    end
 
-`Clean Architecture`
-`CQRS`
-`MediatR`
-`SOLID`
+    subgraph infra ["🏗️ Infrastructure"]
+        db[("SQL Server<br/>EF Core")]
+        cache[("Redis<br/>Cache")]
+        ext["Stripe · Email"]
+    end
 
-</td>
+    client -- "HTTPS + JWT" --> ep
+    ep --> med
+    med --> cmd & qry
+    cmd --> ent
+    cmd --> db
+    cmd --> ext
+    qry --> cache
+    cache -. "miss" .-> db
+    cmd -. "events" .-> hub
+    hub -. "live updates" .-> client
 
-<td align="center" width="25%">
+    classDef svc fill:#512BD4,stroke:#7C3AED,color:#FFFFFF
+    classDef store fill:#0E7490,stroke:#00E5FF,color:#FFFFFF
+    classDef outer fill:#111827,stroke:#00BFFF,color:#FFFFFF
+    class ep,hub,med,cmd,qry,ent svc
+    class db,cache store
+    class client,ext outer
+    style api fill:#7C3AED14,stroke:#7C3AED
+    style rt fill:#00BFFF14,stroke:#00BFFF
+    style app fill:#7C3AED14,stroke:#7C3AED
+    style core fill:#00BFFF14,stroke:#00BFFF
+    style infra fill:#00E5FF14,stroke:#00E5FF
+```
 
-### 🔐 SECURITY
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-`JWT`
-`Refresh Tokens`
-`OTP`
-`2FA`
-`OAuth`
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡ REAL-TIME
-
-`SignalR`
-`WebSockets`
-`Redis`
-`Notifications`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🧰 MY TOOLBOX
-
-### CORE
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark"/>
-
-<br>
-
-`C#` · `ASP.NET Core` · `Web API` · `Entity Framework Core` · `LINQ`
-
-<br><br>
-
-### DATA
-
-<img src="https://skillicons.dev/icons?i=mssql,postgres,mongodb,redis&theme=dark"/>
-
-<br>
-
-`SQL Server` · `PostgreSQL` · `MongoDB` · `Redis`
-
-<br><br>
-
-### FRONTEND & OTHER STACKS
-
-<img src="https://skillicons.dev/icons?i=react,angular,ts,js,laravel,php,nodejs,python,fastapi,flutter,dart&theme=dark"/>
-
-<br>
-
-`React` · `Angular` · `TypeScript` · `JavaScript` · `Laravel` · `Node.js` · `Python` · `FastAPI` · `Flutter`
-
-<br><br>
-
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma&theme=dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🧠 CURRENTLY INTO .NET
-
-<img src="https://img.shields.io/badge/⚡_MAIN_FOCUS-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/🔥_LEVEL--UP-MODE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_BUILDING-BACKEND-00BFFF?style=for-the-badge"/>
-
-<br><br>
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="16%">
+### 🗓️ [TimeTable](https://github.com/HossamTohamy1/Time-Mangments)
 
-### ⚙️
+**Configuration-driven school & university timetabling — bilingual AR / EN.**
 
-**ASP.NET Core**
+Generates timetables with the OR-Tools CP-SAT solver, pushes live changes over SignalR, and exports to PDF & Excel. Every institution type is data, not code.
 
-`Web API`
-`Middleware`
-`DI`
-
-</td>
-
-<td align="center" width="16%">
-
-### 🏗️
-
-**Architecture**
-
-`Clean Architecture`
-`SOLID`
-`Design Patterns`
+<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-7C3AED?style=flat-square" alt="Clean Architecture"/>
+<img src="https://img.shields.io/badge/SignalR-00BFFF?style=flat-square" alt="SignalR"/>
+<img src="https://img.shields.io/badge/OR--Tools-0891B2?style=flat-square" alt="OR-Tools"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center" width="16%">
+### 🚢 [Tracking](https://github.com/HossamTohamy1/Tracking)
 
-### 🧩
+**Import & shipment tracking platform.**
 
-**CQRS**
+Customers request an import, get the full cost calculated (shipping, customs, fees), pay by card, and follow their container stage by stage. Ships with a [React 19 PWA client](https://github.com/HossamTohamy1/Front_Tracking).
 
-`MediatR`
-`Commands`
-`Queries`
-
-</td>
-
-<td align="center" width="16%">
-
-### 🔐
-
-**Security**
-
-`JWT`
-`OTP`
-`2FA`
-`OAuth`
+<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10"/>
+<img src="https://img.shields.io/badge/CQRS_+_MediatR-7C3AED?style=flat-square" alt="CQRS + MediatR"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Serilog-1E293B?style=flat-square" alt="Serilog"/>
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<td align="center" width="16%">
+### 🛍️ [Loma — AuraCommerce](https://github.com/HossamTohamy1/Loma)
 
-### ⚡
+**Online store API with a built-in theme customizer.**
 
-**Real-Time**
+Products, categories, cart and orders, plus a no-code store designer. Tuned with in-memory caching and Brotli / Gzip compression; serves its Angular build from `wwwroot`.
 
-`SignalR`
-`WebSockets`
-`Redis`
-
-</td>
-
-<td align="center" width="16%">
-
-### 🌐
-
-**Distributed**
-
-`Caching`
-`Messaging`
-`Scalable APIs`
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8"/>
+<img src="https://img.shields.io/badge/EF_Core-7C3AED?style=flat-square" alt="EF Core"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Caching-0891B2?style=flat-square" alt="Caching"/>
 
 </td>
+<td width="50%" valign="top">
 
+### 🏨 [Hotel System](https://github.com/HossamTohamy1/Hotel_System)
+
+**Hotel operations back-end.**
+
+Rooms & facilities, multi-room reservations, offers, payments and reviews — with role- and feature-based permissions so every employee can do exactly what they should.
+
+<img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 9"/>
+<img src="https://img.shields.io/badge/Layered_Architecture-7C3AED?style=flat-square" alt="Layered Architecture"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Authorization-DC2626?style=flat-square" alt="Authorization"/>
+
+</td>
 </tr>
 </table>
 
-<br>
+<details>
+<summary><b>📂 More projects</b></summary>
+<br/>
 
-<img src="https://img.shields.io/badge/ASP.NET%20CORE-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-7C3AED?style=flat-square"/>
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/CQRS-5B21B6?style=flat-square"/>
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/SECURITY-DC2626?style=flat-square"/>
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/REAL--TIME-00BFFF?style=flat-square"/>
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-0891B2?style=flat-square"/>
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [School](https://github.com/HossamTohamy1/School) | School management API with paged results | .NET 9 · CQRS · MediatR · FluentValidation |
+| [Examination System](https://github.com/HossamTohamy1/ExaminationSystem) | Online exams with automatic grading | .NET 9 · ASP.NET Core Identity · Repository pattern |
+| [Hospital](https://github.com/HossamTohamy1/Hosptial) | Patients, diagnoses & prescriptions web app | ASP.NET Core MVC · Identity · SMTP |
+| [Tourism System](https://github.com/HossamTohamy1/Tourism_System) | Tourism booking API with online payments | Node.js · Express · MongoDB · Stripe |
+| [Front Tracking](https://github.com/HossamTohamy1/Front_Tracking) | Client app for the Tracking platform | React 19 · TypeScript · Vite · PWA |
+| [Classes Management](https://github.com/HossamTohamy1/Classes_Managment) | Class management dashboard | Angular 20 · Angular Material |
 
-<br><br>
+</details>
 
-### `BUILDING → LEARNING → REFACTORING → SCALING`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-</div>
+## 🧰 Tech Stack
 
----
+<table>
+<tr>
+<td align="center" width="130"><b>Back-End</b></td>
+<td><img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="C#, .NET"/><br/><code>C#</code> <code>ASP.NET Core</code> <code>Web API</code> <code>MVC</code> <code>EF Core</code> <code>LINQ</code> <code>SignalR</code></td>
+</tr>
+<tr>
+<td align="center"><b>Libraries</b></td>
+<td><code>MediatR</code> <code>FluentValidation</code> <code>AutoMapper</code> <code>Serilog</code> <code>Identity</code> <code>Swagger</code> <code>QuestPDF</code> <code>OR-Tools</code></td>
+</tr>
+<tr>
+<td align="center"><b>Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=mssql,postgres,mongodb,redis&theme=dark" alt="SQL Server, PostgreSQL, MongoDB, Redis"/><br/><code>SQL Server</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>Redis</code></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,postman,visualstudio,figma&theme=dark" alt="Docker, Git, GitHub, Postman, Visual Studio, Figma"/><br/><code>Docker</code> <code>Git</code> <code>GitHub</code> <code>Postman</code> <code>Visual Studio</code> <code>Figma</code></td>
+</tr>
+</table>
 
-<div align="center">
+<details>
+<summary><b>🌐 Beyond .NET — comfortable crossing the stack when the project needs it</b></summary>
+<br/>
 
-# 🔥 WHAT I DO
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,python,fastapi,laravel,php,flutter,dart&theme=dark" alt="Other stacks"/>
 
-<br>
+`Angular` · `React` · `TypeScript` · `JavaScript` · `Node.js` · `Express` · `Python` · `FastAPI` · `Laravel` · `PHP` · `Flutter`
 
-<img src="https://img.shields.io/badge/API%20DEVELOPMENT-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SYSTEM%20ARCHITECTURE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AUTHENTICATION-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REAL--TIME-00BFFF?style=for-the-badge"/>
+</details>
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
-<img src="https://img.shields.io/badge/CQRS-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CLEAN%20CODE-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATABASES-334155?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SECURITY-B91C1C?style=for-the-badge"/>
+## 🧭 Leveling Up
 
-</div>
-
----
-
-<div align="center">
-
-# 🔐 SECURITY & AUTHENTICATION
-
-<br>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/REFRESH%20TOKENS-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TOKEN%20ROTATION-B91C1C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OTP-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/2FA-EF4444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OAUTH-EB5424?style=for-the-badge"/>
-
-<br><br>
-
-`Authentication` · `Authorization` · `JWT` · `Refresh Tokens` · `Token Rotation` · `Token Revocation` · `OTP` · `2FA` · `OAuth`
-
-</div>
-
----
+- [x] ASP.NET Core Web API, EF Core & SQL Server
+- [x] Clean Architecture + CQRS with MediatR
+- [x] JWT, refresh-token rotation, OTP & 2FA
+- [x] Real-time apps with SignalR
+- [ ] Distributed caching with Redis
+- [ ] Messaging & event-driven architecture
+- [ ] Containerized, scalable APIs with Docker
 
 <div align="center">
 
-# ⚡ REAL-TIME
-
-<br>
-
-<img src="https://img.shields.io/badge/SIGNALR-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEBSOCKETS-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/REAL--TIME-00BFFF?style=for-the-badge"/>
-
-<br><br>
-
-`Messaging` · `Presence` · `Notifications` · `File Sharing` · `Real-Time Events`
+`BUILDING` ➜ `LEARNING` ➜ `REFACTORING` ➜ `SCALING`
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
+
+## 👨‍🏫 Teaching
+
+<img src="https://img.shields.io/badge/eYouth_Academy-512BD4?style=for-the-badge" alt="eYouth Academy"/>
+<img src="https://img.shields.io/badge/DECI-00BFFF?style=for-the-badge" alt="DECI"/>
+
+I teach **Cybersecurity**, **Web Development**, **Data Science & EDA**, **AI** and **Databases**.
+`LEARN` ➜ `BUILD` ➜ `SHARE`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-# 🚀 A GLIMPSE OF MY WORK
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamTohamy1&layout=compact&langs_count=6&hide=html,css,scss,cmake,c%2B%2B,swift&hide_border=true&border_radius=10&card_width=320&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamTohamy1&layout=compact&langs_count=6&hide=html,css,scss,cmake,c%2B%2B,swift&hide_border=true&border_radius=10&card_width=320&bg_color=F6F8FA&title_color=512BD4&text_color=24292F" height="170" alt="Top languages"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HossamTohamy1&hide_border=true&border_radius=10&background=0D1117&stroke=30363D&ring=7C3AED&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E"/>
+  <img src="https://streak-stats.demolab.com?user=HossamTohamy1&hide_border=true&border_radius=10&background=F6F8FA&stroke=D0D7DE&ring=7C3AED&fire=0891B2&currStreakNum=24292F&sideNums=24292F&currStreakLabel=512BD4&sideLabels=57606A&dates=57606A" height="170" alt="GitHub streak"/>
+</picture>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HossamTohamy1&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HossamTohamy1&theme=github" width="90%" alt="Contribution graph"/>
+</picture>
 
-### 🛒 E-Commerce   •   🏨 Hotel Systems   •   🔐 Authentication
+### 🐍 Contribution Snake
 
-### 💬 Real-Time Chat   •   📍 Tracking   •   📱 Full-Stack Applications
-
-<br><br>
-
-**.NET is my main stack — but I'm comfortable crossing the stack when the project needs it.**
-
-<br>
-
-<a href="https://github.com/HossamTohamy1">
-<img src="https://img.shields.io/badge/→_EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HossamTohamy1/HossamTohamy1/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/HossamTohamy1/HossamTohamy1/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+</picture>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:7C3AED,100:00E5FF&height=3&section=header" width="100%" alt=""/>
 
 <div align="center">
 
-# 👨‍🏫 TEACHING
+**Outside the code:** ⚽ Football · 🏋️ Gym · 🧠 Always learning
 
-<img src="https://img.shields.io/badge/eYouth%20Academy-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DECI-00D4FF?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=BUILD.%20BREAK.%20FIX.%20SHIP.%20REPEAT.&fontSize=26&fontColor=00E5FF&fontAlignY=50&animation=twinkling" alt="Build. Break. Fix. Ship. Repeat."/>
 
-<br><br>
+<a href="https://github.com/HossamTohamy1"><img src="https://img.shields.io/badge/⭐_Explore_my_repos-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repos"/></a>
+<a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/"><img src="https://img.shields.io/badge/🤝_Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect"/></a>
 
-`Cybersecurity` · `Web Development` · `Data Science` · `EDA` · `AI` · `Databases`
-
-<br><br>
-
-### `LEARN → BUILD → SHARE`
+<sub><a href="#readme-top">⬆ Back to top</a></sub>
 
 </div>
 
----
-
-<div align="center">
-
-# ⚽ OUTSIDE THE CODE
-
-<br>
-
-<img src="https://img.shields.io/badge/⚽_FOOTBALL-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏋️_GYM-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻_CODE-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠_LEARN-7C3AED?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 GITHUB ACTIVITY
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=HossamTohamy1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamTohamy1&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=HossamTohamy1&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=HossamTohamy1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HossamTohamy1&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🐍 CONTRIBUTION SNAKE
-
-<img src="https://raw.githubusercontent.com/HossamTohamy1/HossamTohamy1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=BUILD.%20BREAK.%20FIX.%20SHIP.%20REPEAT.&fontSize=27&fontColor=00E5FF&fontAlignY=50&animation=twinkling"/>
-
-### `BACK-END .NET DEVELOPER`
-
-**C# · .NET · ASP.NET Core · CQRS · Clean Architecture · Redis**
-
-<br>
-
-<a href="https://github.com/HossamTohamy1">
-<img src="https://img.shields.io/badge/⭐_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/">
-<img src="https://img.shields.io/badge/🤝_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,35:00BFFF,65:7C3AED,100:512BD4&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,35:00BFFF,65:7C3AED,100:512BD4&height=140&section=footer&animation=twinkling" width="100%" alt=""/>
